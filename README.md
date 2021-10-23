@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Babar Khuroo
+## Hi there 👋, I'm Babar
 
 - 🔭 I’m currently working on **a secret project**
 - 🌱 I’m currently learning **Web Development**
