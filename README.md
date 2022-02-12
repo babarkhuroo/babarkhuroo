@@ -21,7 +21,7 @@
 [<img align="left" alt="Bulma" height="35px" src="https://iconape.com/wp-content/files/aj/349519/svg/bulma-seeklogo.com.svg" />][bulma]
 [<img align="left" alt="JavaScript" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="React" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Vue" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vuejs]
+<!-- [<img align="left" alt="Vue" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vuejs] -->
 
 <br />
 <br />
