@@ -2,7 +2,7 @@
 
 I'm a web developer who likes building clean, fast and accessible things for the web.
 
-- 🔭 Currently working on **a fun, cozy mobile game** and **projects for local businesses**
+- 🔭 Currently working on **a fun, cozy mobile game in Godot** and **projects for local businesses**
 - 🌱 Always learning **new tech**
 - 👯 Open to collaborating on **open source web projects**
 - 💬 Ask me about **anything web dev**
@@ -10,7 +10,7 @@ I'm a web developer who likes building clean, fast and accessible things for the
 
 ### 🛠️ Tech I use
 
-[![Tech I use](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,nodejs,git,vscode,npm)](https://skillicons.dev)
+[![Tech I use](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,nodejs,godot,unity,git,vscode,npm)](https://skillicons.dev)
 
 ### 📫 Find me
 
