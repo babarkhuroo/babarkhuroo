@@ -1,6 +1,6 @@
 <h2>Hi there 👋, I'm Babar</h2>
 
-I'm a web developer who likes building clean, fast and accessible things for the web.
+I'm a web developer who likes building clean, fast and accessible things for the web, and lately, games too.
 
 - 🔭 Currently working on **a fun, cozy mobile game in Godot** and **projects for local businesses**
 - 🌱 Always learning **new tech**
