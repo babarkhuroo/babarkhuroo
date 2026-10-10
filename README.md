@@ -14,4 +14,4 @@ I'm a web developer who likes building clean, fast and accessible things for the
 
 ### 📫 Find me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/babarkhuroo)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/babarbarkat/)
