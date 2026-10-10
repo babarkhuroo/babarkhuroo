@@ -1,18 +1,17 @@
-<h2>Hi there👋, I'm Babar</h2>
+<h2>Hi there 👋, I'm Babar</h2>
 
-<p>
-🔭 I’m currently working on <b>an important project</b><br>
-👯 I’m looking to collaborate on <b>open source web projects</b><br>
-💬 Ask me about <b>anything related to web dev</b><br>
-⚡ Fun fact: <b>when i was a kid, i was short</b>
-</p>
+I'm a web developer who likes building clean, fast and accessible things for the web.
 
-<!--
-**babarkhuroo/babarkhuroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on **[your current project]**
+- 🌱 Currently learning **[what you're learning now]**
+- 👯 Open to collaborating on **open source web projects**
+- 💬 Ask me about **anything web dev**
+- ⚡ Fun fact: **when I was a kid, I was short**
 
-Here are some ideas to get you started:
--->
-<!-- - 🌱 I’m currently learning <b>Full Stack Web Development</b><br> -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 😄 Pronouns: uh/oh/stinky -->
-<!-- - 📫 How to reach me: ... -->
+### 🛠️ Tech I use
+
+[![Tech I use](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,vue,git,vscode,npm)](https://skillicons.dev)
+
+### 📫 Find me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/babarkhuroo)
