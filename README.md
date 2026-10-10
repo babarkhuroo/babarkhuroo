@@ -10,7 +10,7 @@ I'm a web developer who likes building clean, fast and accessible things for the
 
 ### 🛠️ Tech I use
 
-[![Tech I use](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,nodejs,godot,unity,git,vscode,npm)](https://skillicons.dev)
+[![Tech I use](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,nodejs,php,wordpress,godot,unity,git,vscode,npm)](https://skillicons.dev)
 
 ### 📫 Find me
 
